@@ -1,6 +1,4 @@
 # nighttabgit.github.io
 
 
-Hiya! It looks like your not on the official website! Oh no! DOnt you want to download RavenClient instead of looking here?
-
-https://ravenclient.cf/
+Hiya! This is the testing ground for my websites! Whatever website is here, is *not* for me, but for other poeple to look at!
